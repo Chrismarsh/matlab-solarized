@@ -1,0 +1,17 @@
+Editor.VariableHighlighting.Color=C-16304574
+ColorsText=C-7102047
+Colors_M_SystemCommands=C-3454186
+Editorhighlight-lines=C-197412
+Colors_M_Warnings=C-27648
+Colors_M_Strings=C-13983336
+Editor.NonlocalVariableHighlighting.TextColor=C-32640
+Colors_HTML_HTMLLinks=C-2935166
+Colors_M_Comments=C-10981771
+ColorsMLintAutoFixBackground=C-1121868
+Colors_M_Errors=C-65536
+Colors_M_UnterminatedStrings=C-5111808
+ColorsBackground=C-16506839
+Colors_M_Keywords=C-8021760
+
+ColorsUseSystem=Bfalse
+Desktop.Font.Code=F0 13 Consolas
