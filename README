@@ -13,4 +13,9 @@ On OS X or Linux, this should be at
 
 where ``XX`` is your MATLAB version number.
 
+On OSX with Matlab R2017a (and this may apply to older versions), the prf file is located in a different location
+https://www.mathworks.com/help/matlab/ref/prefdir.html
+e.g.,
+    '/Users/UserName/Library/Application Support/MathWorks/MATLAB/R2017a'
+
 Because Matlab doesn't offer highlighting rules for numbers, etc, this stays as close as possible to the Solarized theme.
